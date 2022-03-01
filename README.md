@@ -5,5 +5,7 @@
 
 - Spring Data Jpa 를 이용한 기본적인 CRUD 연습 /  쿼리메서드 ,@Query, JPQL  /  다대일, 일대다 ,다대다 , 테이블 맵핑 연습 을 위한 공간입니다.
 
+- 이에관련한 포스팅은 제 개인블로그 https://velog.io/@wnsqud70?tag=JPA 에 업로드 하였습니다.
+
 
 
